@@ -88,6 +88,10 @@ nav.navbar-tranparente {
 	color: #9bf0e1;
 }
 
+.carousel-control-next, .carousel-control-prev {
+	width: 5%;
+}
+
 .caixa {
 	padding-top: 20px;
 	padding-bottom: 20px;
